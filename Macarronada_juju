@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Macarronada</title>
+</head>
+<body>
+    <h1>Macarronada</h1>
+    <h2>Bem vindo receita de macarronada da Juju</h2>
+    <hr>
+   
+    <h4 class="Ingredientes">Ingredientes</h4>
+    <ul>
+        <li> Macarrão</li>
+        <li>1 Lata de milho verde</li>
+        <li>1 Caixinha de creme de leite</li>
+        <li>250G de carne moida</li>
+        <li>1 Latade ervilha</li>
+        <li>1 Lata de molho de tomate</li>
+        <li>Sal</li>
+        <li>1 Cebola</li>
+        <li>Cheiro verde</li>
+        <li>Queijo ralado</li>
+    </ul>
+
+        <h4>Modo de preparo</h4>
+
+        <ol>
+            <li>Em uma panela, refogue a cebola</li>
+            <li>Adicione a carne moída junto com a cebola adicione o milho verde a ervilha e sal a gosto.</li>
+            <li>Coloque o molho de tomate e o creme de leite e misture bem.</li>
+            <li>Desligue o fogo e acrescente o creme de leite e o molho de tomate.</li>
+            <li>Incorpore o macarrão refogado na manteiga e misture bem.</li>
+            <li>Sirva e coloque queijo ralado por cima.</li>
+        </ol>
+        <p>Aproveite e bom apetite!!</p>
+
+        <img src="download.jpg" alt="">
+        
+
+    
+        
+
+
+    
+</body>
